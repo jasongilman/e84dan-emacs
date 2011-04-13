@@ -1,4 +1,4 @@
-# Dan Pilone's Emacs customizations
+# Dan Pilone's Emacs customizations with adjustments by Jason Gilman
 This project contains a copy of the customizations I use for emacs.
 For a basic emacs install I install Emacs or Aquamacs then install the
 emacs starter kit:
@@ -21,3 +21,4 @@ Once emacs is up, drop in the awesome:
 
     ;; Install rinari
     M-X package-install => rinari
+
